@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background: #f2f2f2;
+}
+
+#title, #description{
+    text-align: center;
+    padding: 10px;
+}
+
+#description{
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+.survey-div{
+    background: #FFFFFF;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
